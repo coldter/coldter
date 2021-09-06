@@ -11,7 +11,7 @@
 
 ## What tools do I use..?:
 
-<img align="left" src="./img/brain.png" width="35px" /> &nbsp; **and**&nbsp; <img align="left" src="./img/google.png" width="35px"/>
+<img align="left" src="./img/brain.png" width="35px" /> &nbsp; **and**&nbsp; <img src="./img/google.png" width="35px"/>
 
 ### Contact Me:  <a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
 
