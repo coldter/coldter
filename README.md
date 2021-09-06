@@ -11,7 +11,7 @@
 
 ## What tools do I use..?:
 
-<img align="left" src="./img/brain.png" width="35px" /> &nbsp; **and**&nbsp; <img width="35px" scr="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
+<img align="left" src="./img/brain.png" width="35px" /> &nbsp; **and**&nbsp; <img width="35px" scr="./img/google.png" />
 
 ### Contact Me:  <a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
 
