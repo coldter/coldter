@@ -9,16 +9,16 @@
 - 🔭 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - **Ask me about:** Anything, I'm happy to help as much I can...
 
-## What tools do I use..?:
+## What tools do I use..? :
 
-<img align="left" src="./img/brain.png" width="35px" /> &nbsp; **and** &nbsp;&nbsp;<img src="./img/google.png" width="35px"/>
+<img align="left" src="./img/brain.png" width="35px" /> <img src="./img/slash.png" width="35px" /> <img src="./img/google.png" width="35px"/>
 
 ### Contact Me:  <a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
 
-### 📊 Profile stats
+### 📊 Profile stats :
 
 <details>
-<summary><b>Github Stats</b></summary>
+<summary><b> Github Stats</b></summary>
 	<br />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coldter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 	<br />
@@ -26,7 +26,7 @@
 </details>
 
 <details>	
-	<summary><b>Github Streaks</b></summary>
+	<summary><b> Github Streaks</b></summary>
 	<br />
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&hide_border=true" />
 </details>
