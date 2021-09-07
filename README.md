@@ -7,13 +7,15 @@
 
 - Always curious to see what's under the hoods <img src="./img/hood.png"/>
 - 🔭 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-- **Ask me about:** Anything, I'm happy to help as much I can...
+- **Ask me about:** Anything, I'm happy to help as much as I can...
 
 ## What tools do I use..? :
 
-<img align="left" src="./img/brain.png" width="35px" /> <img src="./img/slash.png" width="35px" /> <img src="./img/google.png" width="35px"/>
+<img align="left" src="./img/brain.png" width="40px" /> 
+&nbsp;&nbsp;&nbsp;
+<img src="./img/google.png" width="42px"/>
 
-### Contact Me:  <a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
+### Contact Me:  <br /><a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
 
 ### 📊 Profile stats :
 
