@@ -13,7 +13,7 @@
 
 <img align="left" src="./img/brain.png" width="40px" /> 
 &nbsp;&nbsp;&nbsp;
-<img src="./img/google.png" width="42px"/>
+<img src="./img/google.png" width="40px"/>
 
 ### Contact Me:  <br /><a href="mailto:hi@kuld33p.tech"><img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
 
