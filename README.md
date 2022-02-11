@@ -1,21 +1,18 @@
+![Header](./img/header.svg "Header")
 
-## Hi  there, It's Kuldeep <img src="./img/wave.gif" width="30px"> 
+<h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
 
-### I'm a Computer Science Undergraduate Student. 
+My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajkot,Gujarat.
 
-- Always curious to see what's under the hoods <img src="./img/hood.png"/>
-- 🔭 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-- **Ask me about:** Anything, I'm happy to help as much as I can...
-
-## What tools do I use..? :
+#### Tools I use :
 
 <img align="left" src="./img/brain.png" width="40px" /> <img src="./img/google.png" width="40px"/>
 
-### Contact Me:  <br /><a href="mailto:hi@kuld33p.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/Email-hi@kuld33p.tech-blue?style=flat-square&logo=gmail"></a>
+##### Contact: <br /> <a href="mailto:hi@kuld33p.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 
-### 📊 Profile stats :
+##### 📈 Profile stats :
 
 <details>
 <summary><b> Github Stats</b></summary>
@@ -30,3 +27,14 @@
 	<br />
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&hide_border=true" />
 </details>
+
+### Listening :
+<p align="center">
+<img src="https://spotify-readme-kuldeep.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="On Spotify">
+</p>
+
+<p align="center">
+<img align="center" src="https://sugary-forested-emu.glitch.me/count.svg" width="250px">
+</p>
+
+![alt](./img/bottom_header.svg)
