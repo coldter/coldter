@@ -28,7 +28,7 @@ My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajko
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&hide_border=true" />
 </details>
 
-### Listening :
+### Listening:
 <p align="center">
 <img src="https://spotify-readme-kuldeep.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="On Spotify">
 </p>
