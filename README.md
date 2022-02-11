@@ -1,7 +1,7 @@
-![Header](./img/header.svg "Header")
+<img src="./img/header.svg" width="100%" alt="header">
 
 <p align="center">
-<img align="center" src="https://readme-coldter-count.herokuapp.com/count.svg" width="250px">
+<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" width="250px">
 </p>
 
 <h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
