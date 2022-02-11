@@ -6,9 +6,14 @@
 
 <h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
 
-<img align="right" alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
+My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I'm from Rajkot,Gujarat. 
+> **"Perfect is the enemy of good"**
+-Voltaire(1770)
+Trying to shrunk that in with my OCD...
 
-My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajkot,Gujarat.
+<br />
+##### Weather in my town:
+<img alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
 
 <br />
 
