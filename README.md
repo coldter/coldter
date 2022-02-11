@@ -11,12 +11,12 @@ My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I'm from Ra
 -Voltaire(1770) <br />
 Trying to shrunk that in with my OCD...
 
-<br />
+
 
 #### Weather in my town:
 <img alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
 
-<br />
+
 
 ### Contact: <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 
