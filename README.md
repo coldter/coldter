@@ -1,8 +1,8 @@
+![Header](./img/header.svg "Header")
+
 <p align="center">
 <img align="center" src="https://sugary-forested-emu.glitch.me/count.svg" width="250px">
 </p>
-
-![Header](./img/header.svg "Header")
 
 <h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
 
@@ -10,11 +10,12 @@
 
 My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajkot,Gujarat.
 
+<br />
 ## Tools I use :
 
-<img align="left" src="./img/brain.png" width="40px" /> <img src="./img/google.png" width="40px"/>
+<img align="left" src="./img/brain.png" width="45px" /> <img src="./img/google.png" width="45px"/>
 
-### Contact: <br /> <a href="mailto:hi@kuld33p.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
+### Contact: <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 
 ### 📈 Profile stats :
 
