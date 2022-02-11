@@ -11,6 +11,7 @@
 My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajkot,Gujarat.
 
 <br />
+
 ## Tools I use :
 
 <img align="left" src="./img/brain.png" width="45px" /> <img src="./img/google.png" width="45px"/>
