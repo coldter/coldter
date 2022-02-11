@@ -7,8 +7,8 @@
 <h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
 
 My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I'm from Rajkot,Gujarat. 
-> **"Perfect is the enemy of good"**
--Voltaire(1770)
+> **"Perfect is the enemy of good"** <br />
+-Voltaire(1770) <br />
 Trying to shrunk that in with my OCD...
 
 <br />
