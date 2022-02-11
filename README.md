@@ -12,11 +12,11 @@ My name is Kuldeep Parmar and I'm a developer-ishh/DevOps person. I'm from Rajko
 
 <br />
 
+### Contact: <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
+
 ## Tools I use :
 
 <img align="left" src="./img/brain.png" width="45px" /> <img src="./img/google.png" width="45px"/>
-
-### Contact: <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 
 ### 📈 Profile stats :
 
