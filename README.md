@@ -37,7 +37,7 @@ Trying to shrunk that in with my OCD...
 <details>	
 	<summary><b> Github Streaks</b></summary>
 	<br />
-	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&hide_border=true" />
+	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&theme=highcontrast&hide_border=true" />
 </details>
 
 ## Listening:
