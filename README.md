@@ -48,7 +48,7 @@ Trying to shrunk that in with my OCD...
 <details>	
 	<summary><b>ProgrammerHumor?</b></summary>
 <!-- programmer_humor_img starts -->
-
+None
 <!-- programmer_humor_img ends -->
 </details>
 
