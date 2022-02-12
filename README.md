@@ -45,6 +45,11 @@ Trying to shrunk that in with my OCD...
 <img src="https://spotify-readme-kuldeep.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="On Spotify">
 </p>
 
+<details>	
+	<summary><b>ProgrammerHumor?</b></summary>
+<!-- programmer_humor_img starts -->
 
+<!-- programmer_humor_img ends -->
+</details>
 
 ![alt](./img/bottom_header.svg)
