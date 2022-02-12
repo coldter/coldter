@@ -48,7 +48,7 @@ Trying to shrunk that in with my OCD...
 <details>	
 	<summary><b>ProgrammerHumor?</b></summary>
 <!-- programmer_humor_img starts -->
-None
+<a href="https://imgur.com/r/ProgrammerHumor/SEHNyKS"><img max-height="400" width="350" src="https://i.imgur.com/SEHNyKS.jpg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
@@ -57,7 +57,7 @@ None
 <!-- yearProgress starts -->
 ⏳ Year progress ( ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 11.77 %
 
-⏰ Updated on Sat, 12 Feb 2022 22:53:08 GMT
+⏰ Updated on Sat, 12 Feb 2022 23:05:12 GMT
 
 <!-- yearProgress ends -->
 
