@@ -22,7 +22,7 @@ Trying to shrunk that in with my OCD...
 
 ## Tools I use :
 
-<img align="left" src="./img/brain.png" width="45px" /> <img src="./img/google.png" width="45px"/>
+<img align="left" src="./img/brain.png" width="48px" /> <img src="./img/google.png" width="48px"/>
 
 ### 📈 Profile stats :
 
