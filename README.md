@@ -47,6 +47,7 @@ Trying to shrunk that in with my OCD...
 
 <details>	
 	<summary><b>ProgrammerHumor?</b></summary>
+	<br />
 <!-- programmer_humor_img starts -->
 <a href="https://imgur.com/r/ProgrammerHumor/nPsxaMy"><img max-height="400" width="350" src="https://i.imgur.com/nPsxaMy.png"></a>
 <!-- programmer_humor_img ends -->
