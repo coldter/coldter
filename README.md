@@ -51,16 +51,16 @@ Trying to shrunk that in with my OCD...
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/xQ2IyKT"><img max-height="400" width="350" src="https://i.imgur.com/xQ2IyKT.jpg"></a>
+<a href="https://imgur.com/r/ProgrammerHumor/DoWNgM0"><img max-height="400" width="350" src="https://i.imgur.com/DoWNgM0.jpg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 
 <!-- yearProgress starts -->
-⏳ Year progress ( ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 16.18 %
+⏳ Year progress ( ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 16.45 %
 
-⏰ Updated on Tue, 01 Mar 2022 01:30:43 GMT
+⏰ Updated on Wed, 02 Mar 2022 01:07:20 GMT
 
 <!-- yearProgress ends -->
 
