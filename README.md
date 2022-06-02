@@ -1,10 +1,10 @@
 <img src="./img/header.svg" width="100%" alt="header">
 
 <p align="center">
-	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=200px">
+	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250px">
 </p>
 
-<h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
+<h1 align="center" >Hello !["hi"](./img/wave.gif =30x)</h1>
 
 My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I have two passions in tech. The first is building beautiful tools for
 people to share knowledge and experience. The second is creating
@@ -60,7 +60,7 @@ Trying to shrunk that in with my OCD...
 <!-- yearProgress starts -->
 ⏳ Year progress ( ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 41.87 %
 
-⏰ Updated on Thu, 02 Jun 2022 20:03:01 GMT
+⏰ Updated on Thu, 02 Jun 2022 20:01:19 GMT
 
 <!-- yearProgress ends -->
 
