@@ -1,7 +1,12 @@
 <img src="./img/header.svg" width="100%" alt="header">
 
 <p align="center">
-<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" width="250px">
+	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg">
+	<style type="text/css">
+    img {
+        width: 200px;
+    }
+	</style>
 </p>
 
 <h1 align="center" >Hello <img src="./img/wave.gif" width="30px"></h1>
