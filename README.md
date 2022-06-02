@@ -1,10 +1,12 @@
 <img src="./img/header.svg" width="100%" alt="header">
 
 <p align="center">
-	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250px">
+	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250">
 </p>
 
-<h1 align="center" >Hello !["hi"](./img/wave.gif =30x)</h1>
+<h1 align="center" >Hello <img src="./img/wave.gif" width="35"></h1> 
+
+
 
 My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I have two passions in tech. The first is building beautiful tools for
 people to share knowledge and experience. The second is creating
@@ -24,7 +26,7 @@ Trying to shrunk that in with my OCD...
 
 ## Tools I use :
 
-<img align="left" src="./img/brain.png" width="48px" /> <img src="./img/google.png" width="48px"/>
+<img align="left" src="./img/brain.png" width="48" /> <img src="./img/google.png" width="48"/>
 
 ### 📈 Profile stats :
 
