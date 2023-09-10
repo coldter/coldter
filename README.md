@@ -17,18 +17,21 @@ Trying to shrunk that in with my OCD...
 
 
 
-#### Weather in my town:
+#### Weather in my town
+
 <img alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
 
 
 
-### Contact: <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
+### Contact <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
 
-## Tools I use :
+## Tools I use
 
 <img align="left" src="./img/brain.png" width="48" /> <img src="./img/google.png" width="48"/>
 
-### 📈 Profile stats :
+> ⚠️ Post chat-**GPT** update: all my codes are now written by Copilot, and haven't used my brain for a while now. 🤖 is coming for us.
+
+### 📈 Profile stats
 
 <details>
 <summary><b> Github Stats</b></summary>
@@ -44,7 +47,7 @@ Trying to shrunk that in with my OCD...
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&theme=highcontrast&hide_border=true" />
 </details>
 
-## Listening:
+## Listening
 <p align="center">
 <img src="https://spotify-readme-kuldeep.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="On Spotify">
 </p>
@@ -60,10 +63,10 @@ Trying to shrunk that in with my OCD...
 <br />
 
 <!-- yearProgress starts -->
-⏳ Year progress ( ████████████████████▁▁▁▁▁▁▁▁▁▁ ) 69.05 %
+⏳ Year progress ( ████████████████████▁▁▁▁▁▁▁▁▁▁ ) 69.05 % **Nice**
 
 ⏰ Updated on Sun, 10 Sep 2023 00:59:05 GMT
 
 <!-- yearProgress ends -->
 
-![alt](./img/bottom_header.svg)
+![footer](./img/bottom_header.svg)
