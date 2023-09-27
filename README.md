@@ -35,16 +35,10 @@ Trying to shrunk that in with my OCD...
 
 <details>
 <summary><b> Github Stats</b></summary>
-	<br />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coldter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-	<br />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldter&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&text_color=9f9f9f&bg_color=151515"/>
-</details>
-
-<details>	
-	<summary><b> Github Streaks</b></summary>
-	<br />
-	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=coldter&theme=highcontrast&hide_border=true" />
+	<div align="center">
+  <img src="https://raw.githubusercontent.com/coldter/coldter/main/generated/overview.svg#gh-dark-mode-only" alt="Kuldeep's github stats" width="400">
+  <img src="https://raw.githubusercontent.com/coldter/coldter/main/generated/languages.svg#gh-dark-mode-only" alt="Kuldeep's github stats" width="400">
+</div>
 </details>
 
 ## Listening

@@ -7,27 +7,49 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      # Check out repository under $GITHUB_WORKSPACE, so the job can access it
+      - uses: actions/checkout@v4
+
+      # Node setup for yearProgress.js
       - name: Node Progress
         uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
       - name: Update yearProgress.txt
         run: node yearProgress.js > yearProgress.txt
-      - name: Set up Python 3.8
+
+      # Python setup for build_readme.py/generate_images.py
+      - name: Set up Python 3.9
         uses: actions/setup-python@v4
         with:
           python-version: "3.9"
+          architecture: "x64"
           cache: "pip" # caching pip dependencies
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python3 -m pip install --upgrade pip setuptools wheel
+          python3 -m pip install -r requirements.txt
+
+      # Generate all statistics images
+      - name: Generate images
+        run: |
+          python3 --version
+          python3 generate_images.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDED: ${{ secrets.EXCLUDED }}
+          EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+          EXCLUDE_FORKED_REPOS: true
+
       - name: Update README
         run: |-
           python build_readme.py
@@ -35,6 +57,8 @@ jobs:
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+
+      # Commit all changed files to the repository
       - name: Commit and push if changed
         run: |-
           git diff
