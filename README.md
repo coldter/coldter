@@ -8,9 +8,7 @@
 
 
 
-My name is Kuldeep Parmar and I'm a developer cum **DevOps** person. I have two passions in tech. The first is building beautiful tools for
-people to share knowledge and experience. The second is creating
-reliable infrastructure that is easy to use and maintain. 
+Hi there, I'm a passionate software developer fascinated by the ever-growing world of cloud-native tech, with a keen focus on information security to build beautiful and secure solutions.
 > **"Perfect is the enemy of good"** <br />
 -Voltaire(1770) <br />
 Trying to shrunk that in with my OCD...
