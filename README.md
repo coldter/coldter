@@ -58,9 +58,9 @@ Trying to shrunk that in with my OCD... -->
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( █████████████████████████████▁ ) 99.74 %
+⏳ Year progress ( ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 0.01 %
 
-⏰ Updated on Sun, 31 Dec 2023 00:55:13 GMT
+⏰ Updated on Mon, 01 Jan 2024 00:56:43 GMT
 
 <!-- yearProgress ends -->
 
