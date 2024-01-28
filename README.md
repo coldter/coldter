@@ -12,10 +12,10 @@ Hi there, I'm a passionate software developer fascinated by the ever-growing wor
 
 
 
-#### Weather in my town
+<!-- #### Weather in my town
 
 <img alt="weather in rajkot" src="https://weather-icon.journeyad.repl.co/@rajkot?v=1">
-
+-->
 
 
 ### Contact <br /> <a href="mailto:hi@kuldeep.tech"> <img align="center" alt="Email" src="https://img.shields.io/badge/email-Kuldeep-2a8?style=flat-square&logo=gmail&logoColor=white"></a>
