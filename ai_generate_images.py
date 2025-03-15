@@ -53,17 +53,7 @@ def save_binary_file(file_name, data):
         f.write(data)
 
 def generate_image_prompt_template_from_weather_data(weather_data):
-
-    client = genai.Client(
-        api_key=os.environ.get("GEMINI_API_KEY"),
-    )
-
-    model = "gemini-2.0-flash"
-    contents = [
-        types.Content(
-            role="user",
-            parts=[
-                types.Part.from_text(text="""Given this weather data modify given template
+    user_prompt = f"""Given this weather data modify given template
 ```json
 {weather_data}
 ```
@@ -77,7 +67,17 @@ The weather outside the window should be exaggerated to absurd proportions - [WE
 
 In the corner, include an \"emotional support rubber duck\" wearing weather-appropriate clothing ([DUCK_CLOTHING_BASED_ON_WEATHER]). Style should be detailed digital illustration with dramatic lighting.
 ```
-"""),
+"""
+    client = genai.Client(
+        api_key=os.environ.get("GEMINI_API_KEY"),
+    )
+
+    model = "gemini-2.0-flash"
+    contents = [
+        types.Content(
+            role="user",
+            parts=[
+                types.Part.from_text(text=user_prompt),
             ],
         ),
     ]
@@ -101,10 +101,10 @@ Given a weather data in JSON form, perform modifications on user provided templa
         contents=contents,
         config=generate_content_config,
     ):
-        # print(chunk.text, end="")
         template_str += chunk.text
     
     return template_str
+
         
 def generate_ai_image_with_weather_data(weather_data):
     client = genai.Client(
@@ -113,14 +113,15 @@ def generate_ai_image_with_weather_data(weather_data):
 
     image_gen_prompt = generate_image_prompt_template_from_weather_data(weather_data)
 
+    user_prompt = f"""
+{image_gen_prompt}
+"""
     model = "gemini-2.0-flash-exp-image-generation"
     contents = [
         types.Content(
             role="user",
             parts=[
-                types.Part.from_text(text="""
-{image_gen_prompt}
-"""),
+                types.Part.from_text(text=user_prompt),
             ],
         ),
     ]

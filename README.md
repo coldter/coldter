@@ -1,3 +1,6 @@
+<img src="./img/generated/header.jpeg" width="100%" alt="header">
+
+<hr />
 <p align="center">
 	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250">
 </p>
