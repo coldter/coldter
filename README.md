@@ -1,9 +1,10 @@
-<img src="./img/generated/header.jpeg" width="100%" alt="header">
-
 <hr />
 <p align="center">
 	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250">
 </p>
+
+<hr />
+<img src="./img/generated/header.jpeg" width="100%" alt="header">
 
 <!-- <h1 align="center" >Hello <img src="./img/wave.gif" width="35"></h1>  -->
 <hr />
@@ -25,14 +26,15 @@ Hi👋 there, I'm a passionate software developer fascinated by the ever-growing
 
 <img align="left" src="./img/brain.png" width="48" /> <img src="./img/google.png" width="48"/>
 
-> ⚠️ Post chat-**GPT** update: all my codes are now written by Copilot, and haven't used my brain for a while now. 🤖 is coming for us.
-
+> ⚠️ Post **GPT** update: I haven't used my brain for a while now. 🤖 is coming for us.
 <br />
+
+<hr />
 
 <!-- > **"Perfect is the enemy of good"** <br />
 -Voltaire(1770) <br />
 Trying to shrunk that in with my OCD... -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=2BBC8A&multiline=true&repeat=false&width=435&height=90&lines=sand%E2%8C%9B+was+never+meant+to+think;and+that+is+very+cruel+to+rocks.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=300&color=2BBC8A&multiline=true&repeat=false&width=450&height=75&lines=sand%E2%8C%9B+was+never+meant+to+think;and+that+is+very+cruel+to+rocks.)
 
 ### 📈 Profile stats
 
