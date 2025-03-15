@@ -1,14 +1,12 @@
-<img src="./img/header.svg" width="100%" alt="header">
-
 <p align="center">
 	<img align="center" src="https://readme.kuldeep.workers.dev/count.svg" style="width=250">
 </p>
 
-<h1 align="center" >Hello <img src="./img/wave.gif" width="35"></h1> 
+<!-- <h1 align="center" >Hello <img src="./img/wave.gif" width="35"></h1>  -->
+<hr />
 
 
-
-Hi there, I'm a passionate software developer fascinated by the ever-growing world of cloud-native tech, with a keen focus on information security to build beautiful and secure solutions.
+Hi👋 there, I'm a passionate software developer fascinated by the ever-growing world of cloud-native tech, with a keen focus on information security to build beautiful and secure solutions.
 
 
 
@@ -31,7 +29,7 @@ Hi there, I'm a passionate software developer fascinated by the ever-growing wor
 <!-- > **"Perfect is the enemy of good"** <br />
 -Voltaire(1770) <br />
 Trying to shrunk that in with my OCD... -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=2BBC8A&multiline=true&repeat=false&random=false&width=435&height=90&lines=%22Perfect+is+the+enemy+of+good%22;-+Voltaire(1770);Trying+to+shrunk+that+in+with+my+OCD...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=2BBC8A&multiline=true&repeat=false&width=435&height=90&lines=sand%E2%8C%9B+was+never+meant+to+think;and+that+is+very+cruel+to+rocks.)
 
 ### 📈 Profile stats
 

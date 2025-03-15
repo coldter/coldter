@@ -16,22 +16,22 @@ jobs:
 
     steps:
       # Check out repository under $GITHUB_WORKSPACE, so the job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       # Node setup for yearProgress.js
       - name: Node Progress
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
       - name: Update yearProgress.txt
         run: node yearProgress.js > yearProgress.txt
 
       # Python setup for build_readme.py/generate_images.py
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.9"
-          architecture: "x64"
+          python-version: "3.10"
           cache: "pip" # caching pip dependencies
       - name: Install dependencies
         run: |
@@ -39,26 +39,31 @@ jobs:
           python3 -m pip install -r requirements.txt
 
       # Generate all statistics images
-      - name: Generate images
+      # - name: Generate images``
+      #   run: |
+      #     python3 --version
+      #     python3 generate_images.py
+      #   env:
+      #     ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #     EXCLUDED: ${{ secrets.EXCLUDED }}
+      #     EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+      # EXCLUDE_FORKED_REPOS: true
+      # - name: Update README
+      #   run: |-
+      #     python build_readme.py
+      #     cat README.md
+      #   env:
+      #     CLIENT_ID: ${{ secrets.CLIENT_ID }}
+      #     CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+      - name: AI Generated image
         run: |
-          python3 --version
-          python3 generate_images.py
+          python3 ai_generate_images.py
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXCLUDED: ${{ secrets.EXCLUDED }}
-          EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-          EXCLUDE_FORKED_REPOS: true
+          OPENWEATHERMAP_API_KEY: ${{ secrets.OPENWEATHERMAP_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Update README
-        run: |-
-          python build_readme.py
-          cat README.md
-        env:
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-
-      # Commit all changed files to the repository
+        # Commit all changed files to the repository
       - name: Commit and push if changed
         run: |-
           git diff
