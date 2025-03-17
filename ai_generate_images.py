@@ -2,6 +2,7 @@ import requests
 import os
 from google import genai
 from google.genai import types
+from datetime import date
 
 
 def get_weather_data(lat, lng, api_key):
@@ -92,9 +93,10 @@ In the corner, include an \"emotional support rubber duck\" wearing weather-appr
         response_mime_type="text/plain",
         system_instruction=[
             types.Part.from_text(
-                text="""You are an export weather data analyzer.
+                text=f"""You are an export weather data analyzer.
 Given a weather data in JSON form, perform modifications on user provided templates. The weather data json will always going to be openweathermap API response.
 
+- Current date is {date.today().strftime("%B %d, %Y")} make sure to account it to get weather idea according to natural weather cycle.
 - Check the openweathermap API response and understand the weather details.
 - The weather details will be in metric units.
 - Modify the template text according to the weather details you can be creative but don't exaggerate the weather details too much.
