@@ -58,6 +58,7 @@ def save_binary_file(file_name, data):
 
 def generate_image_prompt_template_from_weather_data(weather_data):
     user_prompt = f"""Given this weather data modify given template
+- Analyse weather according to current date and season.
 ```json
 {weather_data}
 ```
@@ -67,9 +68,9 @@ Generate a highly detailed, satirical illustration of a frustrated developer's w
 
 The developer should look [EMOTION_BASED_ON_WEATHER] with disheveled hair and dark circles under their eyes. Their multiple monitors display various error messages and unfinished code. Coffee cups in different states of emptiness surround the workspace.
 
-The weather outside the window should be exaggerated to absurd proportions - [WEATHER_DETAILS_EXAGGERATED]. The light from outside casts [APPROPRIATE_LIGHTING_EFFECT] across the developer's face and keyboard.
+The weather outside the window should be exaggerated to absurd proportions - [WEATHER_DETAILS_EXAGGERATED]. The light from outside casts [APPROPRIATE_LIGHTING_EFFECT] across the developer's face and keyboard.Style should be detailed digital illustration with dramatic lighting. The surrounding environment should modern looking and colorful according to the weather.
 
-In the corner, include an \"emotional support rubber duck\" wearing weather-appropriate clothing ([DUCK_CLOTHING_BASED_ON_WEATHER]). Style should be detailed digital illustration with dramatic lighting.
+In the corner, include an \"emotional support rubber duck\" wearing weather-appropriate clothing ([DUCK_CLOTHING_BASED_ON_WEATHER]).
 ```
 """
     client = genai.Client(
@@ -95,12 +96,40 @@ In the corner, include an \"emotional support rubber duck\" wearing weather-appr
             types.Part.from_text(
                 text=f"""You are an export weather data analyzer.
 Given a weather data in JSON form, perform modifications on user provided templates. The weather data json will always going to be openweathermap API response.
+### Some Details about the api response 
+1. **Group 2xx: Thunderstorm**
+   - **200-232**: Various intensities of thunderstorms, from light to heavy, with or without rain or drizzle.
+   - **Icon**: 11d (Thunderstorm)
+2. **Group 3xx: Drizzle**
+   - **300-321**: Various intensities of drizzle, from light to heavy, sometimes mixed with rain.
+   - **Icon**: 09d (Shower rain)
+3. **Group 5xx: Rain**
+   - **500-531**: Various intensities of rain, from light to extreme, including freezing rain and shower rain.
+   - **Icons**: 10d (Rain), 13d (Snow) for freezing rain, 09d (Shower rain)
+4. **Group 6xx: Snow**
+   - **600-622**: Various intensities of snow, including sleet and mixed rain and snow.
+   - **Icon**: 13d (Snow)
+5. **Group 7xx: Atmosphere**
+   - **701-781**: Various atmospheric conditions like mist, smoke, haze, dust, fog, sand, ash, squalls, and tornadoes.
+   - **Icon**: 50d (Mist)
+6. **Group 800: Clear**
+   - **800**: Clear sky.
+   - **Icon**: 01d (Clear sky)
+7. **Group 80x: Clouds**
+   - **801-804**: Various cloud coverages from few clouds to overcast clouds.
+   - **Icons**: 02d (Few clouds), 03d (Scattered clouds), 04d (Broken clouds)
+### Icon List
+- **Day Icons**: 01d.png (Clear sky), 02d.png (Few clouds), 03d.png (Scattered clouds), 04d.png (Broken clouds), 09d.png (Shower rain), 10d.png (Rain), 11d.png (Thunderstorm), 13d.png (Snow), 50d.png (Mist)
+- **Night Icons**: 01n.png (Clear sky), 02n.png (Few clouds), 03n.png (Scattered clouds), 04n.png (Broken clouds)
 
+# Important Notes
+- Cloudy doesn't mean it will rain, it just means there are clouds in the sky.
 - Current date is {date.today().strftime("%B %d, %Y")} make sure to account it to get weather idea according to natural weather cycle.
 - Check the openweathermap API response and understand the weather details.
 - The weather details will be in metric units.
 - Modify the template text according to the weather details you can be creative but don't exaggerate the weather details too much.
-- Make sure to only return modified template text according to given data in response, don't include any other text."""
+- Make sure to only return modified template text according to given data in response, don't include any other text.
+"""
             ),
         ],
     )
@@ -125,8 +154,10 @@ def generate_ai_image_with_weather_data(weather_data):
 
     user_prompt = f""""{image_gen_prompt}
 
+# Important instructions for image generation:
 -- Make sure to generate a highly detailed, satirical illustration.
 -- Style should be detailed digital illustration with dramatic lighting. Don't need to include any weather related text in the image.
+-- Don't include any big highlighted text in the image.
 -- Generated image should be wild aspect ratio.
 """
 
