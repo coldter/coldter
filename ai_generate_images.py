@@ -64,13 +64,46 @@ def generate_image_prompt_template_from_weather_data(weather_data):
 ```
 template::
 ```
-Generate a highly detailed, satirical illustration of a frustrated developer's workspace during [WEATHER_CONDITION] weather. The room temperature is a [COMFORTABLE/UNCOMFORTABLE] [TEMPERATURE] degrees, while outside it's [WEATHER_DESCRIPTION].
+Create a highly detailed, satirical digital illustration of a developer's workspace during [WEATHER_CONDITION] weather. The scene should be cinematic and well-lit, with a focus on dramatic lighting and atmospheric effects.
 
-The developer should look [EMOTION_BASED_ON_WEATHER] with disheveled hair and dark circles under their eyes. Their multiple monitors display various error messages and unfinished code. Coffee cups in different states of emptiness surround the workspace.
+Key Elements:
+1. Developer Character:
+   - A frustrated developer with realistic facial expressions showing [EMOTION_BASED_ON_WEATHER]
+   - Visible dark circles under eyes and slightly disheveled appearance
+   - Wearing casual developer attire appropriate for the [TEMPERATURE] degree temperature
+   - Sitting in a modern ergonomic chair
 
-The weather outside the window should be exaggerated to absurd proportions - [WEATHER_DETAILS_EXAGGERATED]. The light from outside casts [APPROPRIATE_LIGHTING_EFFECT] across the developer's face and keyboard.Style should be detailed digital illustration with dramatic lighting. The surrounding environment should modern looking and colorful according to the weather.
+2. Workspace Details:
+   - Multiple high-end monitors displaying code and error messages
+   - Mechanical keyboard with RGB lighting
+   - At least 3-4 coffee cups in various states of emptiness
+   - Modern desk setup with cable management
+   - Some tech gadgets and developer tools scattered around
 
-In the corner, include an \"emotional support rubber duck\" wearing weather-appropriate clothing ([DUCK_CLOTHING_BASED_ON_WEATHER]).
+3. Room Environment:
+   - Modern tech office space with clean lines
+   - Temperature set to [TEMPERATURE] degrees, making it [COMFORTABLE/UNCOMFORTABLE]
+   - Subtle RGB lighting elements
+   - Indoor plants that react to the weather outside
+
+4. Window View:
+   - Large window showing [WEATHER_DESCRIPTION] outside
+   - [WEATHER_DETAILS_EXAGGERATED] visible through the window
+   - [APPROPRIATE_LIGHTING_EFFECT] casting dramatic shadows
+   - Window frame with modern design
+
+5. Emotional Support Duck:
+   - A rubber duck wearing [DUCK_CLOTHING_BASED_ON_WEATHER]
+   - Positioned prominently on the desk
+   - Detailed enough to show weather-appropriate accessories
+
+Technical Requirements:
+- Use a cinematic aspect ratio (21:9 or 16:9)
+- Implement dramatic lighting with clear light sources
+- Maintain high contrast while keeping details visible
+- Use a modern, clean art style with attention to small details
+- Ensure the composition leads the eye through the scene
+- Include subtle weather-appropriate color grading
 ```
 """
     client = genai.Client(
@@ -154,11 +187,36 @@ def generate_ai_image_with_weather_data(weather_data):
 
     user_prompt = f""""{image_gen_prompt}
 
-# Important instructions for image generation:
--- Make sure to generate a highly detailed, satirical illustration.
--- Style should be detailed digital illustration with dramatic lighting. Don't need to include any weather related text in the image.
--- Don't include any big highlighted text in the image.
--- Generated image should be wild aspect ratio.
+# Critical Image Generation Instructions:
+1. Style and Quality:
+   - Generate a highly detailed, cinematic digital illustration
+   - Use dramatic lighting with clear light sources and shadows
+   - Maintain high contrast while preserving detail in both shadows and highlights
+   - Follow a modern, clean art style with meticulous attention to small details
+   - Ensure the composition has clear focal points and visual hierarchy
+
+2. Technical Requirements:
+   - Use a cinematic aspect ratio (21:9 or 16:9)
+   - Include subtle weather-appropriate color grading
+   - Maintain consistent lighting throughout the scene
+   - Ensure all text elements (monitors, etc.) are readable but not dominant
+   - Create depth through layering and atmospheric effects
+
+3. Important Restrictions:
+   - NO text overlays or watermarks
+   - NO weather-related text in the image
+   - NO cartoonish or overly exaggerated elements
+   - NO cluttered or messy composition
+   - NO low-quality or blurry elements
+
+4. Focus Areas:
+   - Developer's facial expression and body language
+   - Weather effects visible through the window
+   - Lighting and atmosphere of the room
+   - Details of the workspace and equipment
+   - The emotional support duck's weather-appropriate appearance
+
+The final image should be a professional-quality illustration that could be used as a header image, with clear storytelling and emotional impact.
 """
 
     model = "gemini-2.0-flash-exp-image-generation"
