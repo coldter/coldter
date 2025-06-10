@@ -4,8 +4,10 @@
 </p>
 
 <hr />
-<img src="./img/generated/header.jpeg" width="100%" alt="header">
 
+### #MOOD
+<img src="./img/generated/header.jpeg" width="100%" alt="header">
+<p align="center" style="font-size: 10px"> (Ai generated image representing current local weather and time) </p>
 <!-- <h1 align="center" >Hello <img src="./img/wave.gif" width="35"></h1>  -->
 <hr />
 
