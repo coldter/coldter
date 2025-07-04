@@ -219,50 +219,28 @@ def generate_ai_image_with_weather_data(weather_data):
 The final image should be a professional-quality illustration that could be used as a header image, with clear storytelling and emotional impact.
 """
 
-    model = "gemini-2.0-flash-exp-image-generation"
-    contents = [
-        types.Content(
-            role="user",
-            parts=[
-                types.Part.from_text(text=user_prompt),
-            ],
+    result = client.models.generate_images(
+        model="models/imagen-4.0-generate-preview-06-06",
+        prompt=user_prompt,
+        config=dict(
+            number_of_images=1,
+            output_mime_type="image/jpeg",
+            person_generation="ALLOW_ADULT",
+            aspect_ratio="16:9",
         ),
-    ]
-    generate_content_config = types.GenerateContentConfig(
-        temperature=1,
-        top_p=0.95,
-        top_k=40,
-        max_output_tokens=8192,
-        response_modalities=[
-            "image",
-            "text",
-        ],
-        response_mime_type="text/plain",
     )
 
-    for chunk in client.models.generate_content_stream(
-        model=model,
-        contents=contents,
-        config=generate_content_config,
-    ):
-        if (
-            not chunk.candidates
-            or not chunk.candidates[0].content
-            or not chunk.candidates[0].content.parts
-        ):
-            continue
-        if chunk.candidates[0].content.parts[0].inline_data:
-            file_name = "./img/generated/header.jpeg"
-            save_binary_file(
-                file_name, chunk.candidates[0].content.parts[0].inline_data.data
-            )
-            print(
-                "File of mime type"
-                f" {chunk.candidates[0].content.parts[0].inline_data.mime_type} saved"
-                f"to: {file_name}"
-            )
-        else:
-            print(chunk.text)
+    if not result.generated_images:
+        print("No images generated.")
+        return
+
+    if len(result.generated_images) != 1:
+        print("Number of images generated does not match the requested number.")
+
+    for generated_image in result.generated_images:
+        file_name = "./img/generated/header.jpeg"
+        save_binary_file(file_name, generated_image.image.image_bytes)
+        print(f"Image saved to: {file_name}")
 
 
 if __name__ == "__main__":
