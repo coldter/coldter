@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/t/ProgrammerHumor/D2bCeyx"><img max-height="400" width="350" src="https://i.imgur.com/IFhRMXT.jpg"></a>
+<a><p>Error: Reddit API credentials not configured.</p></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 50.56 %
+⏳ Year progress ( ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 50.57 %
 
-⏰ Updated on Fri, 04 Jul 2025 13:04:09 GMT
+⏰ Updated on Fri, 04 Jul 2025 13:46:11 GMT
 
 <!-- yearProgress ends -->
 
