@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1lzgslg/packetloss/"><img max-height="400" width="350" src="https://i.redd.it/qyddr6cgtscf1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1lzqsdz/seriously/"><img max-height="400" width="350" src="https://i.redd.it/ro9cjk6q7vcf1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 53.45 %
+⏳ Year progress ( ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 53.57 %
 
-⏰ Updated on Tue, 15 Jul 2025 02:09:04 GMT
+⏰ Updated on Tue, 15 Jul 2025 12:53:16 GMT
 
 <!-- yearProgress ends -->
 
