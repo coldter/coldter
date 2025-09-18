@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1niir6y/holamundo/"><img max-height="400" width="350" src="https://i.redd.it/9vjgf69fcjpf1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1njas7u/whysaymanywordswhenfewdotrick/"><img max-height="400" width="350" src="https://i.redd.it/39zps6ebpppf1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( █████████████████████▁▁▁▁▁▁▁▁▁ ) 71.11 %
+⏳ Year progress ( █████████████████████▁▁▁▁▁▁▁▁▁ ) 71.25 %
 
-⏰ Updated on Wed, 17 Sep 2025 12:48:12 GMT
+⏰ Updated on Thu, 18 Sep 2025 01:44:29 GMT
 
 <!-- yearProgress ends -->
 
