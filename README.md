@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1o5rp92/thetwotypesoffileformataretxtandzip/"><img max-height="400" width="350" src="https://i.redd.it/ptwetiqe8xuf1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1o66q3j/neverforget/"><img max-height="400" width="350" src="https://i.redd.it/fmfo1e41g0vf1.png"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ███████████████████████▁▁▁▁▁▁▁ ) 78.50 %
+⏳ Year progress ( ███████████████████████▁▁▁▁▁▁▁ ) 78.65 %
 
-⏰ Updated on Tue, 14 Oct 2025 12:51:28 GMT
+⏰ Updated on Wed, 15 Oct 2025 01:50:35 GMT
 
 <!-- yearProgress ends -->
 
