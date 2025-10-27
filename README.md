@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1oftim0/nextlevelstorage/"><img max-height="400" width="350" src="https://i.redd.it/fea0bsfdu9xf1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/"><p>Could not fetch a top image. Click to visit the subreddit.</p></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ████████████████████████▁▁▁▁▁▁ ) 81.79 %
+⏳ Year progress ( ████████████████████████▁▁▁▁▁▁ ) 81.94 %
 
-⏰ Updated on Sun, 26 Oct 2025 12:43:51 GMT
+⏰ Updated on Mon, 27 Oct 2025 02:00:43 GMT
 
 <!-- yearProgress ends -->
 
