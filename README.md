@@ -57,15 +57,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1on4itj/primarykeyage/"><img max-height="400" width="350" src="https://i.redd.it/pwwo7durjzyf1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1ooep5z/mojangdiscoversmultithreading/"><img max-height="400" width="350" src="https://i.redd.it/gmbndm6a7azf1.png"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( █████████████████████████▁▁▁▁▁ ) 84.13 %
+⏳ Year progress ( █████████████████████████▁▁▁▁▁ ) 84.41 %
 
-⏰ Updated on Tue, 04 Nov 2025 01:54:02 GMT
+⏰ Updated on Wed, 05 Nov 2025 01:55:18 GMT
 
 <!-- yearProgress ends -->
 
