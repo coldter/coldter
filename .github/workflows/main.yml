@@ -18,6 +18,8 @@ jobs:
       # Check out repository under $GITHUB_WORKSPACE, so the job can access it
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # Shallow clone with only the latest commit
 
       # Node setup for yearProgress.js
       - name: Node Progress
