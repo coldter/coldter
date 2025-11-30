@@ -6,7 +6,7 @@
 <hr />
 
 
-Hi👋 there, I'm a passionate software developer fascinated by the ever-growing world of cloud-native tech, with a keen focus on information security to build beautiful and secure solutions.
+Hey 👋 I'm Kuldeep — I build things with cloud-native tech and do my best to keep them secure.
 
 
 
