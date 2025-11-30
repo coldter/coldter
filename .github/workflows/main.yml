@@ -62,13 +62,6 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
 
-      - name: AI Generated image
-        run: |
-          python3 ai_generate_images.py
-        env:
-          OPENWEATHERMAP_API_KEY: ${{ secrets.OPENWEATHERMAP_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
         # Commit all changed files to the repository
       - name: Commit and push if changed
         run: |-
