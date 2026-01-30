@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1qq0g16/dockerdocker/"><img max-height="400" width="350" src="https://i.redd.it/div2s5wka8gg1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1qqhl8h/operatoroverloadingisfun/"><img max-height="400" width="350" src="https://i.redd.it/y0vdai5v5cgg1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 7.97 %
+⏳ Year progress ( ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 8.09 %
 
-⏰ Updated on Fri, 30 Jan 2026 02:32:01 GMT
+⏰ Updated on Fri, 30 Jan 2026 13:07:10 GMT
 
 <!-- yearProgress ends -->
 
