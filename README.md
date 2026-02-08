@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1qxn7pk/linearscaling101/"><img max-height="400" width="350" src="https://i.redd.it/0cyh2973owhg1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1qyfaq4/sametutorialdifferentrealities/"><img max-height="400" width="350" src="https://i.redd.it/r0q2vhbj23ig1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 10.29 %
+⏳ Year progress ( ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 10.45 %
 
-⏰ Updated on Sat, 07 Feb 2026 13:00:35 GMT
+⏰ Updated on Sun, 08 Feb 2026 03:13:48 GMT
 
 <!-- yearProgress ends -->
 
