@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1r8a3n8/innitmate/"><img max-height="400" width="350" src="https://i.redd.it/o88vat6jkakg1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1r8tkhq/returnfalseworksinprod/"><img max-height="400" width="350" src="https://i.redd.it/yat24tlitekg1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 13.58 %
+⏳ Year progress ( ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 13.73 %
 
-⏰ Updated on Thu, 19 Feb 2026 13:18:39 GMT
+⏰ Updated on Fri, 20 Feb 2026 02:34:55 GMT
 
 <!-- yearProgress ends -->
 
