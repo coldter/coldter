@@ -44,7 +44,7 @@ Trying to shrunk that in with my OCD... -->
 
 ## Listening
 <p align="center">
-<img src="https://spotify-readme-kuldeep.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="On Spotify">
+<img src="https://kickssss.github.io/profile-music-widget/youtube-music-widget.svg" alt="On YT Music">
 </p>
 
 <details>	
