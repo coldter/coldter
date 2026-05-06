@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1t4lgjg/optimizingthebackendout/"><img max-height="400" width="350" src="https://i.redd.it/owm2j9mylczg1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1t56job/dataobviously/"><img max-height="400" width="350" src="https://i.redd.it/6x7f6wsb6hzg1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 34.29 %
+⏳ Year progress ( ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 34.41 %
 
-⏰ Updated on Wed, 06 May 2026 03:39:39 GMT
+⏰ Updated on Wed, 06 May 2026 14:27:13 GMT
 
 <!-- yearProgress ends -->
 
