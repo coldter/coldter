@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1tfsxwz/itwasnteasy/"><img max-height="400" width="350" src="https://i.redd.it/b5agv49fwp1h1.jpeg"></a>
+<a><p>An error occurred: received 500 HTTP response</p></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 37.58 %
+⏳ Year progress ( ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 37.71 %
 
-⏰ Updated on Mon, 18 May 2026 04:09:23 GMT
+⏰ Updated on Mon, 18 May 2026 15:43:04 GMT
 
 <!-- yearProgress ends -->
 
