@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u0v6ln/myvibecoderfriend/"><img max-height="400" width="350" src="https://i.redd.it/a0ikhfl1t66h1.jpeg"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u1cp7l/myfirstgithubexperience/"><img max-height="400" width="350" src="https://i.redd.it/zn38jrbxqa6h1.png"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 43.88 %
+⏳ Year progress ( █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 44.02 %
 
-⏰ Updated on Wed, 10 Jun 2026 04:12:11 GMT
+⏰ Updated on Wed, 10 Jun 2026 15:49:39 GMT
 
 <!-- yearProgress ends -->
 
