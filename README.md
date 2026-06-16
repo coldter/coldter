@@ -51,15 +51,15 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u6km9p/thisescaperoomtakesplaceat4pmonfriday/"><img max-height="400" width="350" src="https://i.redd.it/3m7e2s80yg7h1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u7df0b/recursivedelegationpattern/"><img max-height="400" width="350" src="https://i.redd.it/tjleco3ibn7h1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
 <br />
 <!-- yearProgress starts -->
-⏳ Year progress ( █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 45.54 %
+⏳ Year progress ( █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 45.67 %
 
-⏰ Updated on Tue, 16 Jun 2026 04:59:22 GMT
+⏰ Updated on Tue, 16 Jun 2026 17:03:58 GMT
 
 <!-- yearProgress ends -->
 
