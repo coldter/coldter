@@ -51,7 +51,7 @@ Trying to shrunk that in with my OCD... -->
 	<summary><b>ProgrammerHumor?</b></summary>
 	<br />
 <!-- programmer_humor_img starts -->
-<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u8c2jx/twotypesofgameengines/"><img max-height="400" width="350" src="https://i.redd.it/mw3wqoebuu7h1.png"></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/comments/1u8erm8/upgradetoairevolution/"><img max-height="400" width="350" src="https://i.redd.it/t4ofjkpnbv7h1.jpeg"></a>
 <!-- programmer_humor_img ends -->
 </details>
 
@@ -59,7 +59,7 @@ Trying to shrunk that in with my OCD... -->
 <!-- yearProgress starts -->
 ⏳ Year progress ( █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ ) 46.15 %
 
-⏰ Updated on Thu, 18 Jun 2026 10:42:53 GMT
+⏰ Updated on Thu, 18 Jun 2026 10:58:59 GMT
 
 <!-- yearProgress ends -->
 
