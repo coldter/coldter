@@ -305,7 +305,11 @@ Languages:
         self._languages = dict()
         self._repos = set()
 
-        exclude_langs_lower = {x.lower() for x in self._exclude_langs}
+        # Always exclude these languages in addition to those set via env config
+        hardcoded_exclude_langs = {"markdown", "mdx"}
+        exclude_langs_lower = {
+            x.lower() for x in self._exclude_langs
+        } | hardcoded_exclude_langs
 
         next_owned = None
         next_contrib = None
